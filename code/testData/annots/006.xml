@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images_test</folder>
+	<filename>006.JPG</filename>
+	<path>D:\pythonProject\keras-yolo3\testData\images_test\006.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>757</width>
+		<height>392</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sunwell</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>61</xmin>
+			<ymin>78</ymin>
+			<xmax>438</xmax>
+			<ymax>306</ymax>
+		</bndbox>
+	</object>
+</annotation>

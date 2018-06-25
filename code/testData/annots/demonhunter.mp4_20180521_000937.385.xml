@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>demonhunter.mp4_20180521_000937.385.jpg</filename>
+	<path>D:\pythonProject\keras-yolo3\testData\images\demonhunter.mp4_20180521_000937.385.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>544</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>demonhunter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>389</xmin>
+			<ymin>139</ymin>
+			<xmax>539</xmax>
+			<ymax>337</ymax>
+		</bndbox>
+	</object>
+</annotation>
